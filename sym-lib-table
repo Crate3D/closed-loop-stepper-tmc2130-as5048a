@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TMC2130)(type Legacy)(uri /home/alexxy/KiCAD/stm32-closed-loop-stepper/TMC2130.lib)(options "")(descr ""))
+)
